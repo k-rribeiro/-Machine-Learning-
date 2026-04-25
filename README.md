@@ -23,7 +23,7 @@ It covers both theoretical foundations and practical experimentation, enabling a
 
 ---
 
-## 📖 Topics Covered
+## Topics Covered
 
 ### - Learning Fundamentals
 - Basic concepts of learning  
